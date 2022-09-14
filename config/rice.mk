@@ -113,4 +113,5 @@ PRODUCT_PACKAGES += \
     SimIcons \
     RepainterServicePriv \
     OmniJaws \
+    OmniSwitch \
     OPWidget
